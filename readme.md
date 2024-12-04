@@ -9,7 +9,7 @@ Welcome to the GitHub repository for our tutorial on building a natural language
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Acknowledgments](#acknowledgments)   
+* [Acknowledgments](#acknowledgments)      
 * [Support](#support)
 
 <a name="features"></a>
